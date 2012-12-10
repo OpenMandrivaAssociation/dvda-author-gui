@@ -41,3 +41,17 @@ rm -rf %{buildroot}
 %{_datadir}/applications/%{name}.desktop
 %{_datadir}/pixmaps/dvda-author.png
 
+
+
+%changelog
+* Sun Dec 05 2010 Oden Eriksson <oeriksson@mandriva.com> 09.02-2mdv2011.0
++ Revision: 610309
+- rebuild
+
+* Fri Dec 25 2009 Per Øyvind Karlsen <peroyvind@mandriva.org> 09.02-1mdv2010.1
++ Revision: 482281
+- import dvda-author-gui
+
+
+* Fri Dec 25 2009 Per Øyvind Karlsen <peroyvind@mandriva.org> 09.02-1
+- initial release
