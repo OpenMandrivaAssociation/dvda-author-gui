@@ -1,7 +1,7 @@
 Summary:	Qt GUI for dvda-author
 Name:		dvda-author-gui
 Version:	09.02
-Release:	%mkrel 2
+Release:	3
 Source0:	%{name}-%{version}-13.tar.gz
 License:	GPLv3
 Group: 		Archiving/Cd burning
