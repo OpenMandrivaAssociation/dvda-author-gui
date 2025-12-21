@@ -7,6 +7,7 @@ License:	GPLv3
 Group: 		Archiving/Cd burning
 BuildRoot:	%{_builddir}/%{name}-%{version}-%{release}-buildroot
 Requires:	dvda-author
+BuildRequires:	make
 BuildRequires:	qt4-devel
 
 %description
